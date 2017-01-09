@@ -1,6 +1,6 @@
 # DevDocs Fluid Icon
 
-A fancy, custom-designed application icon for an [DevDocs](http://devdocs.io/) [Fluid](http://fluidapp.com/) app.
+A fancy, custom-designed application icon for a [DevDocs](http://devdocs.io/) [Fluid](http://fluidapp.com/) app.
 
 ## Usage
 
